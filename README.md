@@ -17,7 +17,7 @@ Databases: SQL, MySQL
 ## 📫 How to Reach Me:
 Email: harshetha.h@utexas.edu
 
-LinkedIn: [Harshetha Haritharan] (www.linkedin.com/in/harshethaharitharan)
+LinkedIn: [Harshetha Haritharan](www.linkedin.com/in/harshethaharitharan) 
 <!--
 **harshetha-haritharan/harshetha-haritharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
